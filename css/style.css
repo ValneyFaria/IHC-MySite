@@ -78,7 +78,7 @@ header nav{
 header .highlight,
 header .current{
 	color: #0000FF;
-	font-weight= bold;
+	font-weight: bold;
 }
 
 header a:hover{
@@ -143,6 +143,7 @@ header a:hover{
 
 #boxes .box img {
 	width: 90px;
+	height: 90px;
 }
 
 /* Sidebar*/
