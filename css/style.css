@@ -75,7 +75,8 @@ header nav{
 	margin-top: 10px;
 }
 
-header .highlight, header .current{
+header .highlight,
+header .current{
 	color: #0000FF;
 	font-weight= bold;
 }
